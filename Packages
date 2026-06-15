@@ -1,0 +1,11 @@
+Package: com.op.admin
+Name: Wild Animals Online 9.3.2
+Depends: ellekit
+Version: 1.0
+Architecture: iphoneos-arm
+Description: OpAdmin Tweak WildAnimalsOnline
+Maintainer: Developer
+Author: trust-exploit-chain
+Section: Tweaks
+Filename: ./tweak2.deb
+Size: 2896
