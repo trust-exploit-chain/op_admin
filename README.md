@@ -1,0 +1,26 @@
+# op_admin tweak iOS Jailbreak (Rootful)
+### Target Game: Wild Animals Online (1Games) 
+### Supported Client Version: 9.3.2
+### Architecture: iphoneos-arm only!
+
+---
+
+## ⚠️ APT ERROR? INSTALL MANUALLY VIA FILZA! ⚠️
+If Sileo shows an APT error (`Unable to locate package com.op.admin`), it means Sileo is being stupid. Follow these steps to install manually:
+
+1. Go to the **Code** tab in this repository.
+2. Download the `tweak2.deb` file directly to your device.
+3. Open the file using **Filza File Manager** and tap **Install** in the top right corner.
+
+### 🔄 HOW TO ACTIVATE (The Pro Way):
+After installing via Filza, you MUST restart your SpringBoard to inject the dylib. 
+1. Open **NewTerm3 Beta** (Terminal).
+2. Type `su` and enter your root password (default is `alpine`).
+3. Run the following command and hit Enter:
+   ```bash
+   killall -9 SpringBoard
+
+Open Wild Animals Online and start the chaos! 🔥
+​🚫 TROUBLESHOOTING / NOOB DETECTION:
+​If it still doesn't work: You are probably using a Rootless jailbreak. This tweak is compiled strictly for Rootful. Go away or make your own rootless build. Ha-Ha! 🙄🤓🤣
+​Make sure you have ElleKit installed from the official ElleKitSpace repository so the hooks can latch onto the Unity Framework dynamically.
