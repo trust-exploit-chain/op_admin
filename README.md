@@ -14,7 +14,7 @@ If Sileo shows an APT error (`Unable to locate package com.op.admin`), it means 
 
 ### 🔄 HOW TO ACTIVATE (The Pro Way):
 After installing via Filza, you MUST restart your SpringBoard to inject the dylib. 
-1. Open **NewTerm3 Beta** (Terminal).
+1. Open **NewTerm3 Beta od NewTerm2** (Terminal).
 2. Type `su` and enter your root password (default is `alpine`).
 3. Run the following command and hit Enter:
    ```bash
@@ -24,3 +24,9 @@ Open Wild Animals Online and start the chaos! 🔥
 ​🚫 TROUBLESHOOTING / NOOB DETECTION:
 ​If it still doesn't work: You are probably using a Rootless jailbreak. This tweak is compiled strictly for Rootful. Go away or make your own rootless build. Ha-Ha! 🙄🤓🤣
 ​Make sure you have ElleKit installed from the official ElleKitSpace repository so the hooks can latch onto the Unity Framework dynamically.
+
+# ©️ trust-exploit-chain 2026.06.15
+
+# copyright This game project will not be offered to me.
+
+This tweak project is not intended for commercial purposes; it was created solely for entertainment purposes in compliance with Korean copyright laws.
