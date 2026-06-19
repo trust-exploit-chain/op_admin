@@ -25,8 +25,12 @@ Open Wild Animals Online and start the chaos! 🔥
 ​If it still doesn't work: You are probably using a Rootless jailbreak. This tweak is compiled strictly for Rootful. Go away or make your own rootless build. Ha-Ha! 🙄🤓🤣
 ​Make sure you have ElleKit installed from the official ElleKitSpace repository so the hooks can latch onto the Unity Framework dynamically.
 
-# ©️ trust-exploit-chain 2026.06.15
+# ©️ copyright tweak trust-exploit-chain 2026.06.15
 
-# copyright This game project will not be offered to me.
+# ©️ copyright This game project will not be offered to me.
 
 This tweak project is not intended for commercial purposes; it was created solely for entertainment purposes in compliance with Korean copyright laws.
+
+Demo video showing how the tweak works
+
+https://i.imgur.com/JJaFE3U.mp4
