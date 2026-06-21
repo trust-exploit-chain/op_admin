@@ -1,5 +1,6 @@
 # ​This video and repository are intended solely for educational and entertainment purposes. Any malicious software or actions resulting from watching this video or using this repository are NOT my fault; they are solely the result of the users' actions, and the responsibility for your actions lies entirely with you. I have NO affiliation with anything created as a result of watching this video or using this repository.
-​#All demonstrations are intended strictly for lawful, ethical, and defensive use. The creator assumes no responsibility for the actions of viewers; attempting to replicate any activity on systems without prior authorization is illegal and may result in criminal or civil liability. Use this information responsibly, obtain explicit permission before testing, and respect the copyright laws of your country.
+
+​# All demonstrations are intended strictly for lawful, ethical, and defensive use. The creator assumes no responsibility for the actions of viewers; attempting to replicate any activity on systems without prior authorization is illegal and may result in criminal or civil liability. Use this information responsibly, obtain explicit permission before testing, and respect the copyright laws of your country.
 
 # op_admin tweak iOS Jailbreak (Rootful)
 ### Target Game: Wild Animals Online (1Games) 
